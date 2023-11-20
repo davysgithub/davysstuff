@@ -11,12 +11,17 @@
     - [x] BG Vox
     - [ ] Vibraphone (IP)
     - [ ] Percussion
-    - [ ] Muted Trumpet
     - [ ] Bass Clarinet
+    - [ ] Flute
+    - [ ] Trombone
+    - [ ] Muted Trumpet
+    - [ ] Tenor Saxophone
+    - [ ] Harmonica
 - [ ] Recording
-    - [x] MIDI (drums/woodwinds)
+    - [x] MIDI instruments (drums, percussion, woodwinds)
     - [ ] Bass guitar recording
     - [ ] Acoustic Piano recording
     - [ ] Electric Piano recording
     - [ ] Guitar recording
-
+    - [ ] Lead Vox
+    - [ ] BG Vox
