@@ -1,0 +1,22 @@
+## Outline
+- [ ] Transcription
+    - [x] Drums
+    - [x] Bass Guitar
+    - [ ] Upright bass
+    - [ ] Acoustic Piano (IP)
+    - [ ] Electric Piano (IP)
+    - [ ] Clean Guitar Left (IP)
+    - [ ] Clean Guitar Right (IP)
+    - [x] Lead Vox
+    - [x] BG Vox
+    - [ ] Vibraphone (IP)
+    - [ ] Percussion
+    - [ ] Muted Trumpet
+    - [ ] Bass Clarinet
+- [ ] Recording
+    - [x] MIDI (drums/woodwinds)
+    - [ ] Bass guitar recording
+    - [ ] Acoustic Piano recording
+    - [ ] Electric Piano recording
+    - [ ] Guitar recording
+
