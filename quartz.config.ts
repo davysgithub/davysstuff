@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: null,
+      provider: "null",
     },
     baseUrl: "davysgithub.github.io/davysstuff",
     ignorePatterns: ["private", "templates", ".obsidian"],
