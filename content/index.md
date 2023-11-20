@@ -1,8 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Davy's stuff
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
 [[The Night Belongs to Mona]]
